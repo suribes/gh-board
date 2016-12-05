@@ -172,7 +172,6 @@ Just specify a GitHub repository in the URL and off you go!
   - run `npm run build`
   - commit and push
 
-
 # TODO List
 
 - [x] combine Issue and the Pull Requests that fixes it
